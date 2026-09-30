@@ -7,9 +7,16 @@ The existing five photo references are from Pexels, used under https://www.pexel
 - Office: cottonbro studio — https://www.pexels.com/photo/interior-design-of-an-office-5483233/
 - Glass: Tima Miroshnichenko — https://www.pexels.com/photo/woman-in-gray-shirt-wiping-the-glass-window-6195281/
 
-Illustrative stock imagery; not represented as Bertrand employees or documented customer projects. Original Bertrand logo retained unchanged.
+Illustrative stock imagery; not represented as Bertrand employees or documented customer projects. Bertrand uses a provisional typographic wordmark.
 
 ## Fonts
-DM Sans and Noto Sans French are self-hosted as WOFF2 files. SIL Open Font License notices are included in `assets/fonts/`.
+DM Sans and Noto Sans Arabic are self-hosted as WOFF2 files. SIL Open Font License notices are included in `assets/fonts/`.
 
 France background: Eiffel Tower by Dilip Poddar, Unsplash. https://unsplash.com/photos/the-eiffel-tower-stands-tall-against-a-clear-blue-sky-qx2GcR2nIdU — Unsplash License. Decorative only; does not imply a Paris business address. Wordmark is a temporary demo identity, not an official client-supplied logo.
+
+## Current high-resolution cleaning photographs
+Served locally as WebP at up to 1600 × 2200px, quality 82. Pexels License applies; illustrative stock, not Bertrand employees or documented customer results.
+- Hero: https://www.pexels.com/photo/a-cleaner-holding-a-rag-6195114/
+- Sofa: https://www.pexels.com/photo/efficient-sofa-cleaning-with-handheld-vacuum-30238384/
+- Office: https://www.pexels.com/photo/man-cleaning-desk-area-with-sponge-10567364/
+- Glass: https://www.pexels.com/photo/a-person-cleaning-a-glass-window-4440540/
