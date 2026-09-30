@@ -1,3 +1,2 @@
-# Development preview. Change only for an approved production release.
 User-agent: *
 Disallow: /

@@ -1,11 +1,11 @@
-# Al Maher production architecture and handover
+# Bertrand production architecture and handover
 
 ## Current implementation
 
 The original plain HTML/CSS/JavaScript stack is retained. No framework, backend, real authentication or payment system was introduced. Static HTML entry points provide distinct URLs and initial bilingual SEO metadata. Client navigation uses History API; each URL also opens directly on static hosting.
 
 - `js/app.js`: presentation, routing and interaction controllers.
-- `js/i18n.js`: Arabic/English labels and persistent language preference.
+- `js/i18n.js`: French/English labels and persistent language preference.
 - `js/data.js`: existing business content and explicitly labelled sample fixtures.
 - `js/logic.js`: request and file validation; HTML escaping.
 - `js/repository.js`: data-access adapter, entirely in tab memory.
@@ -16,7 +16,7 @@ Demo requests and object URLs exist in tab memory only, disappear on reload, and
 
 ## Content provenance and remaining approvals
 
-Six services retained exactly from the existing app: home/apartment, sofa/carpet, post-construction, windows/glass, deep cleaning, and office/business. Existing offer descriptions retained, with dates and eligibility flagged. Logo `assets/s1.png` retained byte-for-byte. Existing address: Russeifa, Jabal Al Shamali, King Abdullah II Street, Jordan; not independently verified. Exact coordinates and hours absent; do not fabricate them. Map UI offers a labelled general address search, not turn-by-turn directions to an invented pin.
+Six services retained from the source demo: home/apartment, sofa/carpet, post-construction, windows/glass, deep cleaning, and office/business. Bertrand approval is required for inherited service claims and offers. A provisional typographic wordmark replaces the Al Maher logo. France is confirmed by the client; exact address, service area and hours remain unknown. No map pin or directions are invented. French and English use LTR layouts. Production origin, canonical URLs, hreflang and sitemap must be configured after hosting selection.
 
 All reviews are conspicuously marked as sample. Company must supply approved testimonials, image permissions, real paired photos, exact pin, hours, offer dates/terms and final legal documents before launch. Existing public text referring to trained staff is retained; no new awards, customer totals or years-of-experience claims were created.
 

@@ -1,1 +1,1 @@
-{"name":"al-maher-cleaning","private":true,"type":"module","scripts":{"build":"python3 scripts/build-pages.py","test":"node --test tests/logic.test.js","serve":"python3 -m http.server 8080"}}
+{"name":"bertrand-cleaning-services","private":true,"type":"module","scripts":{"build":"python3 scripts/build-pages.py","test":"node --test tests/logic.test.js","serve":"python3 -m http.server 8080"}}

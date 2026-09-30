@@ -7,7 +7,9 @@ The existing five photo references are from Pexels, used under https://www.pexel
 - Office: cottonbro studio — https://www.pexels.com/photo/interior-design-of-an-office-5483233/
 - Glass: Tima Miroshnichenko — https://www.pexels.com/photo/woman-in-gray-shirt-wiping-the-glass-window-6195281/
 
-Illustrative stock imagery; not represented as Al Maher employees or documented customer projects. Original Al Maher logo retained unchanged.
+Illustrative stock imagery; not represented as Bertrand employees or documented customer projects. Original Bertrand logo retained unchanged.
 
 ## Fonts
-DM Sans and Noto Sans Arabic are self-hosted as WOFF2 files. SIL Open Font License notices are included in `assets/fonts/`.
+DM Sans and Noto Sans French are self-hosted as WOFF2 files. SIL Open Font License notices are included in `assets/fonts/`.
+
+France background: Eiffel Tower by Dilip Poddar, Unsplash. https://unsplash.com/photos/the-eiffel-tower-stands-tall-against-a-clear-blue-sky-qx2GcR2nIdU — Unsplash License. Decorative only; does not imply a Paris business address. Wordmark is a temporary demo identity, not an official client-supplied logo.
