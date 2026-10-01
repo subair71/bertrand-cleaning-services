@@ -25,3 +25,11 @@ Served locally as WebP at up to 1600 × 2200px, quality 82. Pexels License appli
 - Cleaning team: https://www.pexels.com/photo/woman-holding-a-mop-6197116/ (Tima Miroshnichenko).
 - Window cleaning: https://www.pexels.com/photo/man-cleaning-window-18266080/.
 Both use the Pexels License; illustrative stock photography, not Bertrand staff or documented jobs. Locally optimized WebP files.
+
+## Current complete collection
+All photographs replaced on 1 October 2026. Pexels License; stock illustrations, not verified Bertrand work.
+- Hero: https://www.pexels.com/photo/people-cleaning-the-room-6196692/
+- Upholstery: https://www.pexels.com/photo/a-woman-cleaning-a-couch-with-a-vacuum-27176672/
+- Office: https://www.pexels.com/photo/modern-office-interior-with-natural-light-33827324/
+- Glass: https://www.pexels.com/photo/person-cleaning-the-glass-window-7641230/
+- France: https://www.pexels.com/photo/eiffel-tower-view-from-the-seine-river-in-paris-30662605/
