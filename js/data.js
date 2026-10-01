@@ -1,6 +1,6 @@
 export const pair=(fr,en)=>({fr,en});
 export const business={name:pair("Bertrand","Bertrand"),phone:'+33605597685',whatsapp:'https://wa.me/33605597685',address:pair("France · adresse et zone d’intervention à confirmer","France · address and service area to be confirmed")};
-export const photos={hero:'assets/bertrand-hero-hd.webp',sofa:'assets/bertrand-sofa-hd.webp',office:'assets/bertrand-office-hd.webp',glass:'assets/bertrand-glass-hd.webp'};
+export const photos={hero:'assets/bertrand-hero-hd.webp',sofa:'assets/bertrand-sofa-hd.webp',office:'assets/bertrand-office-v2.webp',glass:'assets/bertrand-glass-v2.webp'};
 export const services=[
 {id:'home',icon:'home',title:pair("Nettoyage des maisons et appartements","Home & apartment cleaning"),description:pair("Un soin complet des appartements meublés, maisons et villas, des pièces de vie aux cuisines.","Complete care for furnished apartments, homes and villas, from rooms to kitchens."),image:photos.hero},
 {id:'sofa',icon:'sofa',title:pair("Nettoyage des canapés et tapis","Sofa & carpet cleaning"),description:pair("Rafraîchissez canapés, tapis et textiles pour un espace plus confortable.","Refresh sofas, carpets and upholstery for a more comfortable space."),image:photos.sofa},

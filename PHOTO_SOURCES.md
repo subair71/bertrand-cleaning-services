@@ -20,3 +20,8 @@ Served locally as WebP at up to 1600 × 2200px, quality 82. Pexels License appli
 - Sofa: https://www.pexels.com/photo/efficient-sofa-cleaning-with-handheld-vacuum-30238384/
 - Office: https://www.pexels.com/photo/man-cleaning-desk-area-with-sponge-10567364/
 - Glass: https://www.pexels.com/photo/a-person-cleaning-a-glass-window-4440540/
+
+## Replacement office and glass images
+- Cleaning team: https://www.pexels.com/photo/woman-holding-a-mop-6197116/ (Tima Miroshnichenko).
+- Window cleaning: https://www.pexels.com/photo/man-cleaning-window-18266080/.
+Both use the Pexels License; illustrative stock photography, not Bertrand staff or documented jobs. Locally optimized WebP files.
